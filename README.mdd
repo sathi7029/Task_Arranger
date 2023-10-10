@@ -13,7 +13,7 @@ CRUD Operations: The project demonstrates the implementation of Create, Update, 
 ## Future Scope
 Task Arranger can be further improved and expanded in the following ways: <br> <p>
  - User Authentication: Implement user authentication to allow users to create and manage their own task lists securely. <br> <p>
--Task Sorting and Filtering: Enhance the user experience by adding features that enable task sorting and filtering based on different criteria. <br> <p>
+- Task Sorting and Filtering: Enhance the user experience by adding features that enable task sorting and filtering based on different criteria. <br> <p>
 - Reminders and Notifications: Integrate reminders and notifications to help users stay organized and on top of their tasks. <br> <p>
 - Collaborative Features: Enable collaboration by allowing users to share task lists and work together on projects. <br> <p>
 ## Demo Link
