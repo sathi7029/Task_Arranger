@@ -90,3 +90,8 @@ h1 {
 .delete-icon {
   cursor: pointer;
 }
+@media screen and (max-width:480px){
+  .TodoWrapper {
+    margin:20px;
+  }
+}
